@@ -1,0 +1,21 @@
+Coverage Report Summary Data by file
+
+=================================================================================
+=== File: E:/Users/hp/Desktop/assignment/counter_detection.v
+=================================================================================
+    Enabled Coverage            Active      Hits    Misses % Covered
+    ----------------            ------      ----    ------ ---------
+    Stmts                           17        17         0     100.0
+    Branches                         4         4         0     100.0
+    FEC Condition Terms              4         4         0     100.0
+    FEC Expression Terms             0         0         0     100.0
+
+
+TOTAL COVERGROUP COVERAGE: 100.0%  COVERGROUP TYPES: 3
+
+TOTAL DIRECTIVE COVERAGE: 100.0%  COVERS: 6
+
+TOTAL ASSERTION COVERAGE: 100.0%  ASSERTIONS: 1
+
+Total Coverage By File (code coverage only, filtered view): 100.0%
+
